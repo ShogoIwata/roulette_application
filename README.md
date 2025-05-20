@@ -2,7 +2,7 @@
 
 社内の当番を決めるルーレットアプリケーションです。
 
-![スクリーンショット](./screenshot.png)
+https://github.com/user-attachments/assets/14a6e297-2483-498a-89da-526573133a51
 
 ---
 
